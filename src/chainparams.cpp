@@ -181,7 +181,7 @@ public:
         nDefaultPort = 8647;
         nPruneAfterHeight = 100000;
 
-        genesis = CreateGenesisBlock(1514999494, 25023712, 0x1e00ffff, 4, 5000 * COIN);
+        genesis = CreateGenesisBlock(1514999494, 25023712, 0x1e00ffff, 4, 25000 * COIN);
 
         consensus.hashGenesisBlock = genesis.GetX16RHash();
 
