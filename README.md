@@ -4,22 +4,22 @@ https://ravencoin.org
 
 
 
-What is Dach?
+What is Corvus?
 ----------------
 
-Dach is an digital currency.
+Corvus is an digital currency that almost anyone can mineand ASIC resistant.
 
 
 
 License
 -------
 
-Datch Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Corvus Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 
 
-About Dach
+About Corvus
 ----------------
 Thank you to the Bitcoin/Ravencoin developers. 
 
