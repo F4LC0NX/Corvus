@@ -14,7 +14,24 @@ The internet<br><br>
 
 Thank you to the Bitcoin/Ravencoin founder and developers. The Corvus project was launched based on the hard work and continuous effort of over 430 Bitcoin developers who made over 14,000 commits by the date of the Ravencoin code fork thoushands more on the ravencoin project and thasnk you to the devewlopers. I' m  are eternally grateful to you for your diligence in making a secure network and for your support of free and open source software development. The Corvus project is built on the foundation you built fenton and nakamoto.
 
-> **Abstract**. Ravencoin is a blockchain and platform optimized for transferring assets, such as tokens, from one holder to another. Based on the extensive development and testing of the UTXO model of the Bitcoin protocol, Ravencoin is built on a fork of the Bitcoin code. Key changes include a block reward time of one minute, a change in the number of coins issued, but not the weighted distribution schedule and the addition of asset creation and messaging capabilities. Ravencoin is free and open source. All Corvus (CRV) are fairly issued and mined publicly and transparently using Proof of Work (POW) using the x16r algorithm which was created for Ravencoin. There is no private, public, founder, or developer allocation set aside. Ravencoin is intended to prioritize security, user control, privacy, and censorship resistance. It is open to use and development in any jurisdiction, while allowing simple additional features for users based on need.
+> **Abstract**. Here’s a rewritten, cleaner version tailored for **Corvus** while keeping your intended meaning but removing all leftover Ravencoin branding:
+
+---
+
+**Corvus** is a decentralized blockchain and platform designed for the efficient transfer of digital assets — such as tokens — between holders. Built on the proven UTXO model of the Bitcoin protocol, Corvus is a fork that introduces key enhancements, including:
+
+* **1-minute block times** for faster confirmations
+* **Adjusted coin issuance** while maintaining a fair distribution model
+* **Native asset creation and messaging** capabilities
+
+Corvus (CRV) is **fairly issued**, mined publicly, and transparently through **Proof of Work (PoW)** using the **KawPoW** algorithm. There are **no pre-mines, founder rewards, or hidden allocations** — all coins are earned through open participation in the network.
+
+The platform is engineered with a focus on **security, user sovereignty, privacy, and resistance to censorship**. Corvus is fully open-source and free to use, allowing developers and users in any jurisdiction to build and deploy asset-based solutions without permission.
+
+---
+
+If you want, I can also make you a **shorter, punchier version** for your GitHub README or website landing page that sells Corvus’ uniqueness in just a few sentences. That’s usually what grabs attention for a new coin launch.
+
 
 ## 1. Introduction
 
