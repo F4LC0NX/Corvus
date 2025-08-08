@@ -1,4 +1,4 @@
-Building Raven
+Building 
 ================
 
 See doc/build-*.md for instructions on building the various
