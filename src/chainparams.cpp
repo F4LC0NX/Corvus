@@ -1,4 +1,4 @@
-// Copyright (c) 2010 Satoshi Nakamoto00000000000000
+// Copyright (c) 2010 Satoshi Nakamoto
 // Copyright (c) 2009-2016 The Bitcoin Core developers
 // Copyright (c) 2017-2021 The Raven Core developers
 // Distributed under the MIT software license, see the accompanying
