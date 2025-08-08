@@ -1,4 +1,4 @@
-<p align="center"><i>Corvus CRV</i></p>
+<p align="center">Corvus CRV</p>
 
 ## 1. Introduction
 
