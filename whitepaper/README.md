@@ -1,6 +1,3 @@
-Below is the remade version of the provided text with all instances of "Ravencoin" or "Raven" replaced with "Corvus Coin" or "Corvus" as appropriate, while maintaining the original structure and content.
-
----
 
 ## 1. Introduction
 
