@@ -1,5 +1,7 @@
 <p align="center">Corvus coin(CRV)</p>
 
+--- 
+
 ## 1. Introduction
 
 A blockchain is a ledger showing the quantity of something controlled by a user. It enables one to transfer control of that digital representation to someone else. Of the many possible uses for blockchain technology, the reporting of who owns what is one of its core functions. This is likely why the first, and to date most successful, use case for blockchain technology has been Bitcoin, which was announced by Satoshi Nakamoto on October 31, 2008[1].
@@ -8,7 +10,7 @@ The Ethereum ERC20, ERC223, and ERC721 protocols and other projects show tokeniz
 
 Bitcoin also has the capability of serving as the rails for tokens by using projects like Omnilayer, RSK, or Counterparty. However, neither Bitcoin nor Ethereum were specifically designed for facilitating ownership of additional assets, and the users and development teams generally prioritize other features.
 
-Corvus Coin is designed to efficiently handle one specific function well: the transfer of assets from one party to another. One goal of the Corvus protocol is to create a use case-focused blockchain and development effort which can create code, providing advantages for specific use cases, while contributing to open source code which could be used by Bitcoin or other projects.
+Corvus Coin is designed to efficiently handle one specific function well: the transfer of assets from one party to another. One goal of the Corvus protocol is to create a use case-focused blockchain and development effort which can create code, providing advantages for specific use cases, while contributing to open source code which could be used by Bitcoin or other projects. Corvus Coin builds upon the foundation laid by Ravencoin, and we extend our heartfelt thanks to the Ravencoin community for their pioneering work in asset-focused blockchain technology, which inspired and informed the development of Corvus Coin.
 
 If the global economy is influenced by actors using various blockchains, then the way capital markets work today could also change. Borders and jurisdictions may become less relevant as more assets become tradable and trading across borders grows increasingly frictionless. In an age where people can move significant amounts of wealth instantly using Bitcoin, global consumers will likely demand the same efficiency for their securities and similar asset holdings.
 
@@ -69,7 +71,7 @@ Satoshi Nakamoto described bitcoin as an implementation of Wei Dai’s bmoney[10
 
 ## 4. Corvus Coin Launch and Algorithm
 
-Corvus Coin was announced on October 31, 2017[11] and released binaries for mining on Jan 3, 2018,[12] the respective ninth anniversary of the announcement and launch of Bitcoin. Corvus Coin is the bitcoin-like system that will allow users to issue and integrate assets into its blockchain. This will be accomplished in phases which build upon each other.
+Corvus Coin was announced on October 31, 2024, and released binaries for mining on January 3, 2025, marking a new chapter in asset-focused blockchain technology. We express our gratitude to Ravencoin for its groundbreaking contributions, which provided a foundation for Corvus Coin’s vision and development. Corvus Coin is a bitcoin-like system that will allow users to issue and integrate assets into its blockchain. This will be accomplished in phases which build upon each other.
 
 - In progress
 
@@ -195,9 +197,6 @@ Other projects can use this chain. Second-layer solutions, particularly those be
 
 Corvus Coin is a platform coin built on the UTXO[19] model of Bitcoin. Modifying Bitcoin code to add these capabilities is not practical, but Corvus Coin is a platform built from a code fork and issuing newly mined CRV. Corvus Coin will be adding assets, rewards, unique assets, messaging, and voting. The Corvus protocol’s capabilities will be rolled out in phases, which will be done as a planned hard fork upgrade. The code base is designed to allow users and developers to maintain a secure, decentralized, and tamper-resistant network.
 
-The Corvus Coin project can also serve as a base and starting point for projects, second-layer solutions, experiments, and business ideas that might benefit from either the Bitcoin-based code base with adjustments or the native additional features added to the Corvus Coin blockchain.
+The Corvus Coin project can also serve as a base and starting point for projects, second-layer solutions, experiments, and business ideas that might benefit from either the Bitcoin-based code base with adjustments or the native additional features added to the Corvus Coin blockchain. We are deeply grateful to Ravencoin for its innovative contributions, which have paved the way for Corvus Coin to build upon and advance the vision of a decentralized, asset-focused blockchain.
 
 _The Inuit, Tlinglit, Tahitian, Chukchi, Sioux, the Haida, and many others call Corvus the magical keeper of secrets, the trickster, friend of the First Men, and Creator of the World—an idea or force able to shift, change, and create something from nothing. In open source, the power of the crowd can accomplish much more than any one person or organization. All are welcome to contribute._
-
----
-
