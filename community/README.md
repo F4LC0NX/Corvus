@@ -105,5 +105,3 @@ We’re all in this together. There are new capabilities included in the latest 
 * Cross-border payment system
 * A global digital media delivery and payment marketplace
 * A wallet widget in java that can check for an ID asset like what Mangofarms has using short field communications. Smart devices like locks could check to see if your phone or other wallet holds the unique asset needed for access.
-* This same type of widget for subscription web site access and for secure network access.
-* Wallets for non PC/Phone. Like Xbox, Xfinity X1 box, Roku....
