@@ -365,7 +365,7 @@ void RavenCore::shutdown()
 }
 
 static int qt_argc = 1;
-static const char* qt_argv = "raven-qt";
+static const char* qt_argv = "corvus-qt";
 
 RavenApplication::RavenApplication():
     QApplication(qt_argc, const_cast<char **>(&qt_argv)),
@@ -577,7 +577,7 @@ void RavenApplication::shutdownResult(bool success)
 
 void RavenApplication::handleRunawayException(const QString &message)
 {
-    QMessageBox::critical(0, "Runaway exception", RavenGUI::tr("A fatal error occurred. Raven can no longer continue safely and will quit.") + QString("\n\n") + message);
+    QMessageBox::critical(0, "Runaway exception", RavenGUI::tr("A fatal error occurred. Corvus can no longer continue safely and will quit.") + QString("\n\n") + message);
     ::exit(EXIT_FAILURE);
 }
 
