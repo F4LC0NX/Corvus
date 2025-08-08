@@ -7,7 +7,7 @@ https://ravencoin.org
 What is Dach?
 ----------------
 
-Datch is an digital currency.
+Dach is an digital currency.
 
 
 
