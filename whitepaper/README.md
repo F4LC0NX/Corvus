@@ -1,4 +1,4 @@
-<p align="center">Corvus CRV</p>
+<p align="center">Corvus coin(CRV)</p>
 
 ## 1. Introduction
 
