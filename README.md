@@ -4,7 +4,7 @@ https://ravencoin.org
 
 
 
-What is Datch?
+What is Dach?
 ----------------
 
 Datch is an digital currency.
@@ -19,7 +19,7 @@ information or see https://opensource.org/licenses/MIT.
 
 
 
-About Datch
+About Dach
 ----------------
 Thank you to the Bitcoin/Ravencoin developers. 
 
