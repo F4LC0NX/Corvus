@@ -1,16 +1,15 @@
 <h1 align="center">
-  Ravencoin: A Peer to Peer Electronic System for the Creation and Transfer of Assets<br>
+  CorvusCoin: iIf you're reading this it probably means you're a high tech connoisseur, this is another shitcoin that took me weeks to make because I'm a noob.<br>
 </h1>
 
 
 <p align="center">
-Bruce Fenton<br>
-Tron Black<br>
-http://www.ravencoin.org<br>
-3rd April 2018
+The internet<br><br>
+<br>
+09-Aug-2025
 </p>
 <p align="center"><i>
-In the fictional world of Westeros, ravens are used as messengers who carry statements of truth. Ravencoin is a use-case focused blockchain designed to carry statements of truth about who owns what assets.
+''In the fictional world of Westeros, ravens are used as messengers who carry statements of truth. Ravencoin is a use-case focused blockchain designed to carry statements of truth about who owns what assets.'' Feldon
 </i></p> 
 
 Thank you to the Bitcoin founder and developers. The Ravencoin project was launched based on the hard work and continuous effort of over 430 Bitcoin developers who made over 14,000 commits by the date of the Ravencoin code fork. We are eternally grateful to you for your diligence in making a secure network and for your support of free and open source software development. The Ravencoin project is built on the foundation you built.
